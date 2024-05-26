@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Treasury Bill Calculator</string>
+    <string name="navigation_drawer_open">Open</string>
+
+    <string name="description">Description</string>
+    <string name="description_details">This app Is a simple Treasury Bill Calculator that calculates future interest payment for investment amounts</string>
+    <string name="how_to_use">How to use?</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="how_to_use_details">Please input only digits or periods as needed. Do not input any letters, percentages or monetary symbols. E.g: 11.5% should be put in as 11.5 or 11.50</string>
+    <string name="disclaimer_details">This Treasury Bill Calculator can currently be used only for the Nigerian and Ghanaian financial markets. It is not a representation of solicitation for any financial institution, but a calculation of a future interest on the Treasury Bill capital investment. We are not responsible for any financial overture from the use of this app.</string>
+
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_ad">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial">ca-app-pub-3940256099942544/1033173712</string>
+
+
+    <string name="amount">Amount to be invested in USD</string>
+    <string name="duration">Duration of days you want or tenor</string>
+    <string name="bankRate">Bank\'s Rate</string>
+    <string name="year">Enter the number of days for this year</string>
+    <string name="interest">Interest Payment</string>
+</resources>
